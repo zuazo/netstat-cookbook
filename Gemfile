@@ -57,5 +57,5 @@ group :guard do
 end
 
 group :travis do
-  gem 'coveralls', '~> 0.8', require: false
+  gem 'coveralls', '~> 0.7', require: false
 end
