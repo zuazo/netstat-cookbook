@@ -40,6 +40,7 @@ supports 'fedora'
 supports 'opensuse'
 supports 'oracle'
 supports 'redhat'
+supports 'scientific'
 supports 'suse'
 supports 'ubuntu'
 

@@ -20,6 +20,7 @@ This cookbook has been tested on the following platforms:
 * openSUSE
 * Oracle Linux
 * RedHat
+* Scientific Linux
 * SUSE
 * Ubuntu
 

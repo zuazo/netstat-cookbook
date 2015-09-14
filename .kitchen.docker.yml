@@ -29,3 +29,9 @@ platforms:
   run_list: recipe[apt]
 - name: ubuntu-15.04
   run_list: recipe[apt]
+
+# Non-official images
+- name: scientific-6.6
+  driver_config:
+    image: ringo/scientific:6.6
+    platform: rhel
