@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## [Unreleased]
 ### Added
 - Add Scientific Linux support.
+- Add Chef `13` support.
 - metadata: Add `source_url`, `issues_url` add `chef_version`.
 - README: Add GitHub and license badges.
 

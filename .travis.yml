@@ -23,6 +23,7 @@ env:
   - TESTS="integration[default-ubuntu-1610,verify]"
   - TESTS="integration[default-scientific-68,verify]"
   - TESTS="integration[default-scientific-72,verify]"
+  - TESTS="integration[chef13-centos-7,verify]"
 
 matrix:
   exclude:
@@ -54,6 +55,8 @@ matrix:
     env: TESTS="integration[default-scientific-68,verify]"
   - rvm: 2.2
     env: TESTS="integration[default-scientific-72,verify]"
+  - rvm: 2.2
+    env: TESTS="integration[chef13-centos-7,verify]"
 
 before_install:
 - chef --version &> /dev/null || curl -L https://www.getchef.com/chef/install.sh | sudo bash -s -- -P chefdk -v 1.2.22
