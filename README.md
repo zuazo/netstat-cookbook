@@ -5,7 +5,7 @@ Netstat Cookbook
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/netstat.svg?style=flat)](https://supermarket.chef.io/cookbooks/netstat)
 [![Dependency Status](http://img.shields.io/gemnasium/zuazo/netstat-cookbook.svg?style=flat)](https://gemnasium.com/zuazo/netstat-cookbook)
-[![Build Status](http://img.shields.io/travis/zuazo/netstat-cookbook/0.2.0.svg?style=flat)](https://travis-ci.org/zuazo/netstat-cookbook)
+[![Build Status](http://img.shields.io/travis/zuazo/netstat-cookbook.svg?style=flat)](https://travis-ci.org/zuazo/netstat-cookbook)
 
 [Chef](https://www.chef.io/) cookbook to install `netstat` network tool. Recommended for [Docker](https://www.docker.com/) containers.
 
