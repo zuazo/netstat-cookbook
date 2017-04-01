@@ -1,7 +1,7 @@
 Netstat Cookbook
 ================
-[![GitHub](http://img.shields.io/badge/github-zuazo/opendkim--cookbook-blue.svg?style=flat)](https://github.com/zuazo/opendkim-cookbook)
-[![License](https://img.shields.io/github/license/zuazo/opendkim-cookbook.svg?style=flat)](#license-and-author)
+[![GitHub](http://img.shields.io/badge/github-zuazo/netstat--cookbook-blue.svg?style=flat)](https://github.com/zuazo/netstat-cookbook)
+[![License](https://img.shields.io/github/license/zuazo/netstat-cookbook.svg?style=flat)](#license-and-author)
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/netstat.svg?style=flat)](https://supermarket.chef.io/cookbooks/netstat)
 [![Dependency Status](http://img.shields.io/gemnasium/zuazo/netstat-cookbook.svg?style=flat)](https://gemnasium.com/zuazo/netstat-cookbook)
