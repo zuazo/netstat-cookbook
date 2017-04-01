@@ -28,7 +28,8 @@ Please, [let me know](https://github.com/zuazo/netstat-cookbook/issues/new?title
 
 ## Required Applications
 
-* Ruby `1.9.3` or higher.
+* Chef `12` or higher.
+* Ruby `2.2` or higher.
 
 Platform Support Related Attributes
 ===================================
